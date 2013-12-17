@@ -1,1 +1,9 @@
 Dette er hovedsiden min
+
+Vi bør jo ha en del med tekst enn dette. Det blir jo ikke noe særlig nettside av dette...
+
+Men hvordan ser det ut hvis noen prøver å endre en side?
+
+Kan jeg forresten embedde fra yourube?
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/KOhaBgKcb1w" frameborder="0" allowfullscreen></iframe>
